@@ -1,0 +1,23 @@
+{
+    "Timestamp": "05/06/2025 10:23:41",
+    "CPU Usage": "6.7%",
+    "CPU Temperature": null,
+    "GPU Usage": {
+        "NVIDIA GeForce RTX 4060 Laptop GPU": "7.000000000000001%"
+    },
+    "GPU VRAM": {
+        "NVIDIA GeForce RTX 4060 Laptop GPU": {
+            "Used": "1074.0 MB",
+            "Total": "8188.0 MB"
+        }
+    },
+    "GPU Temperature": {
+        "GPU 1 : NVIDIA GeForce RTX 4060 Laptop GPU": "43 \u00b0C"
+    },
+    "RAM Usage": {
+        "Total RAM": "24283.87 MB",
+        "Used RAM": "11040.75 MB",
+        "Available RAM": "13243.11 MB",
+        "RAM Usage": "45.5%"
+    }
+}
